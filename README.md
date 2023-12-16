@@ -5,3 +5,14 @@
 
 # codewars_trainings
 My solved katas from codewars by Python
+
+### 8 kuy
+***
+
+### 7 kyu
+***
+* <a href="https://github.com/amoglock/codewars_trainings/blob/main/7_kyu/square_every_digit.py">Square every digit</a>
+* <a href="https://github.com/amoglock/codewars_trainings/blob/main/7_kyu/vowel_count.py">Vowel count</a>
+
+### 6 kyu
+***
