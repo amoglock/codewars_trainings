@@ -8,6 +8,7 @@ My solved katas from codewars by Python
 
 ### 8 kuy
 ***
+* <a href="https://github.com/amoglock/codewars_trainings/blob/main/8_kyu/sum_of_positive.py">Sum of positive</a>
 
 ### 7 kyu
 ***
