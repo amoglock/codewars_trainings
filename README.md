@@ -19,3 +19,4 @@ My solved katas from codewars by Python
 
 ### 6 kyu
 ***
+* <a href="https://github.com/amoglock/codewars_trainings/blob/main/6_kyu/decode_the_morse_code.py">Decode the Morse code</a>
