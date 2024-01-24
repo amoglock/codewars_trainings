@@ -24,5 +24,5 @@ My solved katas from codewars by Python
 ***
 * <a href="https://github.com/amoglock/codewars_trainings/blob/main/6_kyu/decode_the_morse_code.py">Decode the Morse code</a>
 * <a href="https://github.com/amoglock/codewars_trainings/blob/main/6_kyu/find_the_parity_outlier.py">Find the parity outlier</a>
-* [Split strings](https://github.com/amoglock/codewars_trainings/blob/main/7_kyu/split_strings.py)
+* [Split strings](https://github.com/amoglock/codewars_trainings/blob/main/6_kyu/split_strings.py)
 * <a href="https://github.com/amoglock/codewars_trainings/blob/main/6_kyu/stop_gninnips_my_sdrow.py">Stop gninnipS My sdroW!</a>
