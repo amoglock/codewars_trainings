@@ -10,7 +10,7 @@ My solved katas from codewars by Python
 ***
 * <a href="https://github.com/amoglock/codewars_trainings/blob/main/8_kyu/are_you_banjo.py">Are you playing Banjo?</a>
 * [Function 1 - hello world](https://github.com/amoglock/codewars_trainings/blob/main/8_kyu/hello_world.py)
-* [Get the mean of array](https://github.com/amoglock/codewars_trainings/blob/main/8_kyu/get_mean_array.py) 
+* [Get the mean of an array](https://github.com/amoglock/codewars_trainings/blob/main/8_kyu/get_mean_array.py) 
 * [Invalid Login - Bug Fixing #11](https://github.com/amoglock/codewars_trainings/blob/main/8_kyu/bug_fixing_11.py)
 * <a href="https://github.com/amoglock/codewars_trainings/blob/main/8_kyu/square(n)_sum.py">Square(n) sum</a>
 * <a href="https://github.com/amoglock/codewars_trainings/blob/main/8_kyu/sum_arrays.py">Sum Arrays</a>
