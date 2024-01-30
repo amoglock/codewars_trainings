@@ -34,3 +34,7 @@ My solved katas from codewars by Python
 * [Prefill an Array](https://github.com/amoglock/codewars_trainings/blob/main/6_kyu/prefill_an_array.py)
 * [Split strings](https://github.com/amoglock/codewars_trainings/blob/main/6_kyu/split_strings.py)
 * <a href="https://github.com/amoglock/codewars_trainings/blob/main/6_kyu/stop_gninnips_my_sdrow.py">Stop gninnipS My sdroW!</a>
+
+### 4 kyu
+***
+* [What is a happy number?(Not done)](https://github.com/amoglock/codewars_trainings/blob/main/4_kyu/happy_numbers_another_performance.py)
