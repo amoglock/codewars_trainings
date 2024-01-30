@@ -10,6 +10,7 @@ My solved katas from codewars by Python
 ***
 * <a href="https://github.com/amoglock/codewars_trainings/blob/main/8_kyu/are_you_banjo.py">Are you playing Banjo?</a>
 * [Count the monkeys!](https://github.com/amoglock/codewars_trainings/blob/main/8_kyu/count_monkeys.py)
+* [Finish Guess the Number Game](https://github.com/amoglock/codewars_trainings/blob/main/8_kyu/number_game.py)
 * [Function 1 - hello world](https://github.com/amoglock/codewars_trainings/blob/main/8_kyu/hello_world.py)
 * [Get the mean of an array](https://github.com/amoglock/codewars_trainings/blob/main/8_kyu/get_mean_array.py) 
 * [Invalid Login - Bug Fixing #11](https://github.com/amoglock/codewars_trainings/blob/main/8_kyu/bug_fixing_11.py)
