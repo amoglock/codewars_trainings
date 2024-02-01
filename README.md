@@ -36,6 +36,10 @@ My solved katas from codewars by Python
 * [Split strings](https://github.com/amoglock/codewars_trainings/blob/main/6_kyu/split_strings.py)
 * <a href="https://github.com/amoglock/codewars_trainings/blob/main/6_kyu/stop_gninnips_my_sdrow.py">Stop gninnipS My sdroW!</a>
 
+### 5 kyu
+***
+* [Happy Numbers (performance)(Not done)](https://github.com/amoglock/codewars_trainings/blob/main/5_kyu/happy_numbers_performance.py)
+
 ### 4 kyu
 ***
 * [Happy Numbers. Another performance edition. (Not done)](https://github.com/amoglock/codewars_trainings/blob/main/4_kyu/happy_numbers_another_performance.py)
