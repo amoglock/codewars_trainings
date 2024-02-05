@@ -44,5 +44,3 @@ My solved katas from codewars by Python
 ***
 * [Happy Numbers. Another performance edition. (Not done)](https://github.com/amoglock/codewars_trainings/blob/main/4_kyu/happy_numbers_another_performance.py)
 * [Next bigger number with the same digits](https://github.com/amoglock/codewars_trainings/blob/main/4_kyu/next_bigger_number.py)
-
-sdsdsdsdsd
