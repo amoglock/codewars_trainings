@@ -40,6 +40,7 @@ My solved katas from codewars by Python
 ### 5 kyu
 ***
 * [Happy Numbers (performance)(Not done)](https://github.com/amoglock/codewars_trainings/blob/main/5_kyu/happy_numbers_performance.py)
+* [Sum of Pairs](https://github.com/amoglock/codewars_trainings/blob/main/5_kyu/sum_of_pairs.py)
 
 ### 4 kyu
 ***
