@@ -22,6 +22,7 @@ My solved katas from codewars by Python
 
 ### 7 kyu
 ***
+* [Disemvowel Trolls](https://github.com/amoglock/codewars_trainings/blob/main/7_kyu/disemvowel_trolls.py)
 * <a href="https://github.com/amoglock/codewars_trainings/blob/main/7_kyu/square_every_digit.py">Square every digit</a>
 * <a href="https://github.com/amoglock/codewars_trainings/blob/main/7_kyu/vowel_count.py">Vowel count</a>
 * [You're a square](https://github.com/amoglock/codewars_trainings/blob/main/7_kyu/you_are_square.py)
