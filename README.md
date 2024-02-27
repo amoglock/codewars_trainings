@@ -16,6 +16,7 @@ My solved katas from codewars by Python
 * [Invalid Login - Bug Fixing #11](https://github.com/amoglock/codewars_trainings/blob/main/8_kyu/bug_fixing_11.py)
 * [Jenny's secret message](https://github.com/amoglock/codewars_trainings/blob/main/8_kyu/secret_message.py)
 * [Sentence smash](https://github.com/amoglock/codewars_trainings/blob/main/8_kyu/sentence_smash.py)
+* [Parse nice int from char problem](https://github.com/amoglock/codewars_trainings/blob/main/8_kyu/parse_int.py)
 * <a href="https://github.com/amoglock/codewars_trainings/blob/main/8_kyu/square(n)_sum.py">Square(n) sum</a>
 * <a href="https://github.com/amoglock/codewars_trainings/blob/main/8_kyu/sum_arrays.py">Sum Arrays</a>
 * <a href="https://github.com/amoglock/codewars_trainings/blob/main/8_kyu/sum_of_positive.py">Sum of positive</a>
