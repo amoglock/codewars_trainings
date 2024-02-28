@@ -31,6 +31,7 @@ My solved katas from codewars by Python
 ### 6 kyu
 ***
 * [Basics 03: Strings, Numbers and Calculation](https://github.com/amoglock/codewars_trainings/blob/main/6_kyu/basics_03.py)
+* [Counting Duplicates](https://github.com/amoglock/codewars_trainings/blob/main/6_kyu/counting_duplicates.py)
 * <a href="https://github.com/amoglock/codewars_trainings/blob/main/6_kyu/decode_the_morse_code.py">Decode the Morse code</a>
 * [Duplicate Encoder](https://github.com/amoglock/codewars_trainings/blob/main/6_kyu/duplicate_encoder.py)
 * <a href="https://github.com/amoglock/codewars_trainings/blob/main/6_kyu/find_the_parity_outlier.py">Find the parity outlier</a>
